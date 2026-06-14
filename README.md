@@ -1,8 +1,8 @@
 # Hey! I'm Alexandra aka xAlexCode 👋
 
-Frontend developer student with a love for clean structure, accessible interfaces and code that actually makes sense. I’m all about clarity, consistency and building things that feel good to use. 
+Frontend developer student with a love for clean structure and code that actually makes sense. I’m all about clarity, consistency and building things that feel good to use. 
 
-I enjoy creating websites that are simple, sharp and thoughtfully designed with just enough personality to make them memorable.
+I enjoy creating websites that are simple and thoughtfully designed with just enough personality to make them memorable.
 
 ## Current state
 - Leveling up my JavaScript and TypeScript skills
